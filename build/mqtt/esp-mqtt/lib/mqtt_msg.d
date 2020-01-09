@@ -19,7 +19,7 @@ esp-mqtt/lib/mqtt_msg.o: \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/string.h \
  /home/gardin/esp/esp-idf/components/mqtt/esp-mqtt/lib/include/mqtt_msg.h \
  /home/gardin/esp/esp-idf/components/mqtt/esp-mqtt/include/mqtt_config.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/mqtt/esp-mqtt/lib/include/platform.h \
  /home/gardin/esp/esp-idf/components/mqtt/esp-mqtt/lib/include/platform_esp32_idf.h \
  /home/gardin/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
@@ -166,7 +166,7 @@ esp-mqtt/lib/mqtt_msg.o: \
 
 /home/gardin/esp/esp-idf/components/mqtt/esp-mqtt/include/mqtt_config.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/mqtt/esp-mqtt/lib/include/platform.h:
 

@@ -14,7 +14,7 @@ dport_panic_highint_hdl.o: \
  /home/gardin/esp/esp-idf/components/freertos/include/freertos/xtensa_context.h \
  /home/gardin/esp/esp-idf/components/xtensa/include/xtensa/xtruntime-frames.h \
  /home/gardin/esp/esp-idf/components/xtensa/include/esp_private/panic_reason.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_bit_defs.h \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/dport_reg.h \
@@ -48,7 +48,7 @@ dport_panic_highint_hdl.o: \
 
 /home/gardin/esp/esp-idf/components/xtensa/include/esp_private/panic_reason.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/soc.h:
 

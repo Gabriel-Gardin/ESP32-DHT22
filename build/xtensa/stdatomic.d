@@ -1,5 +1,5 @@
 stdatomic.o: /home/gardin/esp/esp-idf/components/xtensa/stdatomic.c \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/reent.h \
  /home/gardin/esp/esp-idf/components/newlib/include/_ansi.h \
@@ -59,7 +59,7 @@ stdatomic.o: /home/gardin/esp/esp-idf/components/xtensa/stdatomic.c \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_idf_version.h \
  /home/gardin/esp/esp-idf/components/freertos/include/freertos/portmacro.h
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h:
 

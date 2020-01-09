@@ -1,5 +1,5 @@
 int_wdt.o: /home/gardin/esp/esp-idf/components/esp32/int_wdt.c \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdint.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/_default_types.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/features.h \
@@ -77,7 +77,7 @@ int_wdt.o: /home/gardin/esp/esp-idf/components/esp32/int_wdt.c \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_int_wdt.h \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/hal/timer_ll.h
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/newlib/include/stdint.h:
 

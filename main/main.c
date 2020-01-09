@@ -57,7 +57,7 @@ void main_task(void * pvParameters)
         data = get_temp_humity();
         printf("Temperature is %f\n", data.temperature);
         printf("Humity is %f\n", data.humity);
-        vTaskDelay(pdMS_TO_TICKS(3000));
+        vTaskDelay(pdMS_TO_TICKS(4000));
     }
 }
 
@@ -69,10 +69,10 @@ dht_data get_temp_humity()
 
     int count = 0;
 
-    char first_byte_temp = 0;
-    char second_byte_temp = 0;
-    char first_byte_hum = 0;
-    char second_byte_hum = 0;
+    unsigned char first_byte_temp = 0;
+    unsigned char second_byte_temp = 0;
+    unsigned char first_byte_hum = 0;
+    unsigned char second_byte_hum = 0;
 
     int high_temp = 0;
     int high_hum = 0;
@@ -112,7 +112,7 @@ dht_data get_temp_humity()
     }
     count = 0;
 
-    checksum = first_byte_hum + second_byte_hum + first_byte_temp + second_byte_temp;
+    checksum = (int)((first_byte_hum + second_byte_hum + first_byte_temp + second_byte_temp) & 0XFF);
 
     high_hum = first_byte_hum << 8;
     high_temp = first_byte_temp << 8;
@@ -155,6 +155,7 @@ int *get_bits(void)
     uint32_t length = 4;
     bool rmt_installed = 0;
     static int bits[42] = {0};
+    //memset(bits, 0, sizeof(bits));
 
     if (!rmt_installed)
     {
@@ -205,6 +206,7 @@ int *get_bits(void)
                         //printf("%i\n", bits[i]);
                     }
                 }
+            //    ets_delay_us(50);
                 items++;
             }
             //vRingbufferReturnItem(rb, (void*) items);

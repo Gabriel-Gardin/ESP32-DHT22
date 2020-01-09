@@ -1,6 +1,6 @@
 spi_flash_os_func_noos.o: \
  /home/gardin/esp/esp-idf/components/spi_flash/spi_flash_os_func_noos.c \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/spi_flash/include/esp_flash.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdint.h \
@@ -51,7 +51,7 @@ spi_flash_os_func_noos.o: \
  /home/gardin/esp/esp-idf/components/xtensa/include/xtensa/xtruntime-core-state.h \
  /home/gardin/esp/esp-idf/components/xtensa/include/xtensa/xtruntime-frames.h
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/spi_flash/include/esp_flash.h:
 

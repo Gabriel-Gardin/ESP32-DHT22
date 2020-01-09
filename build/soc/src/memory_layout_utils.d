@@ -18,7 +18,7 @@ src/memory_layout_utils.o: \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/cdefs.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/string.h \
  /home/gardin/esp/esp-idf/components/log/include/esp_log.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdlib.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/stdlib.h \
@@ -68,7 +68,7 @@ src/memory_layout_utils.o: \
 
 /home/gardin/esp/esp-idf/components/log/include/esp_log.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 

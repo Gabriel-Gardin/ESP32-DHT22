@@ -1,6 +1,6 @@
 pm_trace.o: /home/gardin/esp/esp-idf/components/esp32/pm_trace.c \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_private/pm_trace.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/driver/include/driver/gpio.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdint.h \
@@ -54,7 +54,7 @@ pm_trace.o: /home/gardin/esp/esp-idf/components/esp32/pm_trace.c \
 
 /home/gardin/esp/esp-idf/components/esp_common/include/esp_private/pm_trace.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/driver/include/driver/gpio.h:
 

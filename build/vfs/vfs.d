@@ -18,7 +18,7 @@ vfs.o: /home/gardin/esp/esp-idf/components/vfs/vfs.c \
  /home/gardin/esp/esp-idf/components/newlib/include/string.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/string.h \
  /home/gardin/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/newlib/include/assert.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/errno.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/fcntl.h \
@@ -126,7 +126,7 @@ vfs.o: /home/gardin/esp/esp-idf/components/vfs/vfs.c \
 
 /home/gardin/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/newlib/include/assert.h:
 

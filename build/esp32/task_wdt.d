@@ -24,7 +24,7 @@ task_wdt.o: /home/gardin/esp/esp-idf/components/esp32/task_wdt.c \
  /home/gardin/esp/esp-idf/components/newlib/include/alloca.h \
  /home/gardin/esp/esp-idf/components/newlib/include/string.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/string.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
  /home/gardin/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /home/gardin/esp/esp-idf/components/xtensa/include/xtensa/hal.h \
@@ -136,7 +136,7 @@ task_wdt.o: /home/gardin/esp/esp-idf/components/esp32/task_wdt.c \
 
 /home/gardin/esp/esp-idf/components/newlib/include/sys/string.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 

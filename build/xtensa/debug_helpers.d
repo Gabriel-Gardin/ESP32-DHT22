@@ -1,6 +1,6 @@
 debug_helpers.o: \
  /home/gardin/esp/esp-idf/components/xtensa/debug_helpers.c \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_types.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/cdefs.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -43,7 +43,7 @@ debug_helpers.o: \
  /home/gardin/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/tie.h \
  /home/gardin/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/esp_common/include/esp_types.h:
 

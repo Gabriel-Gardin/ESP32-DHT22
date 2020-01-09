@@ -1,4 +1,4 @@
-main.o: /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/main/main.c \
+main.o: /home/gardin/Documents/dev/ESP32-DHT22/main/main.c \
  /home/gardin/esp/esp-idf/components/newlib/include/stdlib.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/ieeefp.h \
  /home/gardin/esp/esp-idf/components/newlib/include/_ansi.h \
@@ -24,7 +24,7 @@ main.o: /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/main/main.c \
  /home/gardin/esp/esp-idf/components/newlib/include/string.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/string.h \
  /home/gardin/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/newlib/include/assert.h \
  /home/gardin/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdint.h \
@@ -209,7 +209,7 @@ main.o: /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/main/main.c \
 
 /home/gardin/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/newlib/include/assert.h:
 
@@ -476,4 +476,4 @@ main.o: /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/main/main.c \
 /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/periph_defs.h:
 
 /home/gardin/esp/esp-idf/components/esp32/include/rom/ets_sys.h:
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/main/./main.c:
+/home/gardin/Documents/dev/ESP32-DHT22/main/./main.c:

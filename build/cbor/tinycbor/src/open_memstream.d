@@ -29,7 +29,7 @@ tinycbor/src/open_memstream.o: \
  /home/gardin/esp/esp-idf/components/cbor/tinycbor/src/compilersupport_p.h \
  /home/gardin/esp/esp-idf/components/cbor/tinycbor/src/cbor.h \
  /home/gardin/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/newlib/include/assert.h \
  /home/gardin/esp/esp-idf/components/newlib/include/limits.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdint.h \
@@ -94,7 +94,7 @@ tinycbor/src/open_memstream.o: \
 
 /home/gardin/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/newlib/include/assert.h:
 

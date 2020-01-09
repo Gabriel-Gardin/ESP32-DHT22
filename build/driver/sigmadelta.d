@@ -4,7 +4,7 @@ sigmadelta.o: /home/gardin/esp/esp-idf/components/driver/sigmadelta.c \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/_default_types.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/features.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/_intsup.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdlib.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/ieeefp.h \
@@ -68,7 +68,7 @@ sigmadelta.o: /home/gardin/esp/esp-idf/components/driver/sigmadelta.c \
 
 /home/gardin/esp/esp-idf/components/newlib/include/sys/_intsup.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 

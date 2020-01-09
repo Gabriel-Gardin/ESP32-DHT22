@@ -1,6 +1,6 @@
 src/stack_check.o: \
  /home/gardin/esp/esp-idf/components/esp_common/src/stack_check.c \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_system.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdint.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -32,7 +32,7 @@ src/stack_check.o: \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_bit_defs.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_idf_version.h
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/esp_common/include/esp_system.h:
 

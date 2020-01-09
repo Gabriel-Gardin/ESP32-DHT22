@@ -1,7 +1,7 @@
 spi_flash_os_func_app.o: \
  /home/gardin/esp/esp-idf/components/spi_flash/spi_flash_os_func_app.c \
  /home/gardin/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/spi_flash/include/esp_spi_flash.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdint.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -38,7 +38,7 @@ spi_flash_os_func_app.o: \
 
 /home/gardin/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/spi_flash/include/esp_spi_flash.h:
 

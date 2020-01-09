@@ -1,6 +1,6 @@
 esp32/esp_efuse_table.o: \
  /home/gardin/esp/esp-idf/components/efuse/esp32/esp_efuse_table.c \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/efuse/include/esp_efuse.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdint.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -34,7 +34,7 @@ esp32/esp_efuse_table.o: \
  /home/gardin/esp/esp-idf/components/efuse/include/esp32/esp_efuse.h \
  /home/gardin/esp/esp-idf/components/efuse/esp32/include/esp_efuse_table.h
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/efuse/include/esp_efuse.h:
 

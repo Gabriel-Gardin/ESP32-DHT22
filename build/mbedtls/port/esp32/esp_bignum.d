@@ -24,7 +24,7 @@ port/esp32/esp_bignum.o: \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/malloc.h \
  /home/gardin/esp/esp-idf/components/newlib/include/limits.h \
  /home/gardin/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdlib.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/stdlib.h \
  /home/gardin/esp/esp-idf/components/newlib/include/alloca.h \
@@ -142,7 +142,7 @@ port/esp32/esp_bignum.o: \
 
 /home/gardin/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/newlib/include/stdlib.h:
 

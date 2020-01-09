@@ -23,7 +23,7 @@ reent_init.o: /home/gardin/esp/esp-idf/components/newlib/reent_init.c \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/sched.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/stdio.h \
  /home/gardin/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h
 
 /home/gardin/esp/esp-idf/components/newlib/include/string.h:
 
@@ -73,5 +73,5 @@ reent_init.o: /home/gardin/esp/esp-idf/components/newlib/reent_init.c \
 
 /home/gardin/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 /home/gardin/esp/esp-idf/components/newlib/./reent_init.c:

@@ -3,7 +3,7 @@ asio/asio/src/asio.o: \
  /home/gardin/esp/esp-idf/components/asio/asio/asio/include/asio/impl/src.hpp \
  /home/gardin/esp/esp-idf/components/asio/asio/asio/include/asio/detail/config.hpp \
  /home/gardin/esp/esp-idf/components/asio/port/include/esp_asio_config.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/asio/asio/asio/include/asio/impl/error.ipp \
  /home/gardin/esp/esp-idf/components/asio/asio/asio/include/asio/error.hpp \
  /home/gardin/esp/esp-idf/components/asio/asio/asio/include/asio/error_code.hpp \
@@ -321,7 +321,7 @@ asio/asio/src/asio.o: \
 
 /home/gardin/esp/esp-idf/components/asio/port/include/esp_asio_config.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/asio/asio/asio/include/asio/impl/error.ipp:
 

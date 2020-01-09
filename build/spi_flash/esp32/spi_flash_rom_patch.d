@@ -1,6 +1,6 @@
 esp32/spi_flash_rom_patch.o: \
  /home/gardin/esp/esp-idf/components/spi_flash/esp32/spi_flash_rom_patch.c \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdint.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -36,7 +36,7 @@ esp32/spi_flash_rom_patch.o: \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/spi_struct.h \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/gpio_sig_map.h
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 

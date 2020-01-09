@@ -1,6 +1,6 @@
 src/bootloader_clock.o: \
  /home/gardin/esp/esp-idf/components/bootloader_support/src/bootloader_clock.c \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_assert.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_bit_defs.h \
@@ -40,7 +40,7 @@ src/bootloader_clock.o: \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/uart_channel.h \
  /home/gardin/esp/esp-idf/components/esp_rom/include/esp32/rom/rtc.h
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/soc.h:
 

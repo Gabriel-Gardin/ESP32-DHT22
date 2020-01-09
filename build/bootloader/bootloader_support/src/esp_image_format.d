@@ -12,7 +12,7 @@ src/esp_image_format.o: \
  /home/gardin/esp/esp-idf/components/bootloader_support/include/esp_flash_partitions.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_types.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_assert.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_bit_defs.h \
@@ -60,7 +60,7 @@ src/esp_image_format.o: \
 
 /home/gardin/esp/esp-idf/components/esp_common/include/esp_types.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/soc.h:
 

@@ -1,5 +1,5 @@
 termios.o: /home/gardin/esp/esp-idf/components/newlib/termios.c \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/newlib/platform_include/sys/termios.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdint.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -19,7 +19,7 @@ termios.o: /home/gardin/esp/esp-idf/components/newlib/termios.c \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/errno.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/reent.h
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/newlib/platform_include/sys/termios.h:
 

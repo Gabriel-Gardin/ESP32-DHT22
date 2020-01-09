@@ -32,7 +32,7 @@ time.o: /home/gardin/esp/esp-idf/components/newlib/time.c \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/time.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/times.h \
  /home/gardin/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/esp32/include/esp_intr_alloc.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdint.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/_intsup.h \
@@ -157,7 +157,7 @@ time.o: /home/gardin/esp/esp-idf/components/newlib/time.c \
 
 /home/gardin/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/esp32/include/esp_intr_alloc.h:
 

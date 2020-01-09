@@ -30,7 +30,7 @@ src/crypto/crypto_internal-rsa.o: \
  /home/gardin/esp/esp-idf/components/newlib/include/alloca.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/gardin/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/newlib/include/assert.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_bit_defs.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/endian.h \
@@ -109,7 +109,7 @@ src/crypto/crypto_internal-rsa.o: \
 
 /home/gardin/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/newlib/include/assert.h:
 

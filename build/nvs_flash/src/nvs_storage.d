@@ -4,7 +4,7 @@ src/nvs_storage.o: \
  /home/gardin/esp/esp-idf/components/nvs_flash/src/nvs.hpp \
  /home/gardin/esp/esp-idf/components/nvs_flash/include/nvs.h \
  /home/gardin/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdio.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/stdio.h \
@@ -29,7 +29,7 @@ src/nvs_storage.o: \
 
 /home/gardin/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/esp_common/include/esp_err.h:
 

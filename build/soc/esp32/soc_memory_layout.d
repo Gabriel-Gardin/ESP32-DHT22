@@ -21,7 +21,7 @@ esp32/soc_memory_layout.o: \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_assert.h \
  /home/gardin/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/newlib/include/assert.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_bit_defs.h \
  /home/gardin/esp/esp-idf/components/soc/include/soc/soc_memory_layout.h \
@@ -71,7 +71,7 @@ esp32/soc_memory_layout.o: \
 
 /home/gardin/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/newlib/include/assert.h:
 

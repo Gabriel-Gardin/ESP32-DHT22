@@ -14,7 +14,7 @@ spi_slave.o: /home/gardin/esp/esp-idf/components/driver/spi_slave.c \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/lock.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/cdefs.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/string.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/hal/spi_ll.h \
  /home/gardin/esp/esp-idf/components/soc/include/hal/hal_defs.h \
  /home/gardin/esp/esp-idf/components/log/include/esp_log.h \
@@ -136,7 +136,7 @@ spi_slave.o: /home/gardin/esp/esp-idf/components/driver/spi_slave.c \
 
 /home/gardin/esp/esp-idf/components/newlib/include/sys/string.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/soc/esp32/include/hal/spi_ll.h:
 

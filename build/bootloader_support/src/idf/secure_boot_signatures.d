@@ -1,6 +1,6 @@
 src/idf/secure_boot_signatures.o: \
  /home/gardin/esp/esp-idf/components/bootloader_support/src/idf/secure_boot_signatures.c \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/bootloader_support/include_bootloader/bootloader_flash.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdint.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -60,7 +60,7 @@ src/idf/secure_boot_signatures.o: \
  /home/gardin/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecp.h \
  /home/gardin/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdsa.h
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/bootloader_support/include_bootloader/bootloader_flash.h:
 

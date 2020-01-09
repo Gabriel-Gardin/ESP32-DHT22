@@ -1,6 +1,6 @@
 src/bootloader_common.o: \
  /home/gardin/esp/esp-idf/components/bootloader_support/src/bootloader_common.c \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/gardin/esp/esp-idf/components/log/include/esp_log.h \
  /home/gardin/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
@@ -36,7 +36,7 @@ src/bootloader_common.o: \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/efuse_reg.h \
  /home/gardin/esp/esp-idf/components/bootloader_support/include_bootloader/bootloader_sha.h
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/esp_common/include/esp_err.h:
 

@@ -1,7 +1,7 @@
 esp32/cpu_util.o: \
  /home/gardin/esp/esp-idf/components/soc/esp32/cpu_util.c \
  /home/gardin/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/cpu.h \
  /home/gardin/esp/esp-idf/components/xtensa/include/xtensa/corebits.h \
  /home/gardin/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h \
@@ -24,7 +24,7 @@ esp32/cpu_util.o: \
 
 /home/gardin/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/cpu.h:
 

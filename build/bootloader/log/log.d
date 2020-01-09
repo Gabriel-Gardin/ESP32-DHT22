@@ -1,6 +1,6 @@
 log.o: /home/gardin/esp/esp-idf/components/log/log.c \
  /home/gardin/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/xtensa/include/xtensa/hal.h \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_assert.h \
@@ -12,7 +12,7 @@ log.o: /home/gardin/esp/esp-idf/components/log/log.c \
 
 /home/gardin/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/xtensa/include/xtensa/hal.h:
 

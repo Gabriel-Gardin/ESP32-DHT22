@@ -20,7 +20,7 @@ rtc_module.o: /home/gardin/esp/esp-idf/components/driver/rtc_module.c \
  /home/gardin/esp/esp-idf/components/newlib/include/alloca.h \
  /home/gardin/esp/esp-idf/components/newlib/include/ctype.h \
  /home/gardin/esp/esp-idf/components/log/include/esp_log.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/gardin/esp/esp-idf/components/log/include/esp_log_internal.h \
  /home/gardin/esp/esp-idf/components/soc/include/soc/rtc_periph.h \
@@ -150,7 +150,7 @@ rtc_module.o: /home/gardin/esp/esp-idf/components/driver/rtc_module.c \
 
 /home/gardin/esp/esp-idf/components/log/include/esp_log.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 

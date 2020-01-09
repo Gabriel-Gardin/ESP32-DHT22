@@ -28,7 +28,7 @@ esp_netif_handlers.o: \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/sched.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/stdio.h \
  /home/gardin/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdlib.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/stdlib.h \
  /home/gardin/esp/esp-idf/components/newlib/include/alloca.h \
@@ -178,7 +178,7 @@ esp_netif_handlers.o: \
 
 /home/gardin/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/newlib/include/stdlib.h:
 

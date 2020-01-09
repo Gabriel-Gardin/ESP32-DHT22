@@ -16,7 +16,7 @@ src/flash_encrypt.o: \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/types.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/types.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/sched.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/log/include/esp_log.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdint.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/_intsup.h \
@@ -76,7 +76,7 @@ src/flash_encrypt.o: \
 
 /home/gardin/esp/esp-idf/components/newlib/include/sys/sched.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/log/include/esp_log.h:
 

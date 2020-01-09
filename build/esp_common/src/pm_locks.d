@@ -28,7 +28,7 @@ src/pm_locks.o: \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/sched.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/stdio.h \
  /home/gardin/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/newlib/include/assert.h \
  /home/gardin/esp/esp-idf/components/esp32/include/esp32/pm.h \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/rtc.h \
@@ -132,7 +132,7 @@ src/pm_locks.o: \
 
 /home/gardin/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/newlib/include/assert.h:
 

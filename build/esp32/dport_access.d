@@ -16,7 +16,7 @@ dport_access.o: /home/gardin/esp/esp-idf/components/esp32/dport_access.c \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/lock.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/cdefs.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/string.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/xtensa/include/esp_attr.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdio.h \
@@ -125,7 +125,7 @@ dport_access.o: /home/gardin/esp/esp-idf/components/esp32/dport_access.c \
 
 /home/gardin/esp/esp-idf/components/newlib/include/sys/string.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/xtensa/include/esp_attr.h:
 

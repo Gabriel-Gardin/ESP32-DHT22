@@ -1,5 +1,5 @@
 intr_alloc.o: /home/gardin/esp/esp-idf/components/esp32/intr_alloc.c \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdint.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/_default_types.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/features.h \
@@ -71,7 +71,7 @@ intr_alloc.o: /home/gardin/esp/esp-idf/components/esp32/intr_alloc.c \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_assert.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_ipc.h
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/newlib/include/stdint.h:
 

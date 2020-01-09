@@ -10,7 +10,7 @@ esp32/spi_periph.o: \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/spi_struct.h \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/gpio_sig_map.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h
+ /home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h
 
 /home/gardin/esp/esp-idf/components/soc/include/soc/spi_periph.h:
 
@@ -32,5 +32,5 @@ esp32/spi_periph.o: \
 
 /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/gpio_sig_map.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h:
 /home/gardin/esp/esp-idf/components/soc/esp32/spi_periph.c:

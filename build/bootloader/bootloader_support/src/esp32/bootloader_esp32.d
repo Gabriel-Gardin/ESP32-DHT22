@@ -4,7 +4,7 @@ src/esp32/bootloader_esp32.o: \
  /home/gardin/esp/esp-idf/components/bootloader_support/include/esp_flash_partitions.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_types.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/bootloader_support/include/esp_image_format.h \
  /home/gardin/esp/esp-idf/components/bootloader_support/include/esp_app_format.h \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/efuse_reg.h \
@@ -26,7 +26,7 @@ src/esp32/bootloader_esp32.o: \
 
 /home/gardin/esp/esp-idf/components/esp_common/include/esp_types.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/bootloader_support/include/esp_image_format.h:
 

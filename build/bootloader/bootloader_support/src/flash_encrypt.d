@@ -1,6 +1,6 @@
 src/flash_encrypt.o: \
  /home/gardin/esp/esp-idf/components/bootloader_support/src/flash_encrypt.c \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/log/include/esp_log.h \
  /home/gardin/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/gardin/esp/esp-idf/components/log/include/esp_log_internal.h \
@@ -17,7 +17,7 @@ src/flash_encrypt.o: \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_bit_defs.h \
  /home/gardin/esp/esp-idf/components/bootloader_support/include/esp_secure_boot.h
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/log/include/esp_log.h:
 

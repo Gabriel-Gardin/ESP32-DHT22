@@ -1,6 +1,6 @@
 heap_trace_tohost.o: \
  /home/gardin/esp/esp-idf/components/app_trace/heap_trace_tohost.c \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/heap/include/esp_heap_trace.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdint.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -29,7 +29,7 @@ heap_trace_tohost.o: \
  /home/gardin/esp/esp-idf/components/newlib/include/alloca.h \
  /home/gardin/esp/esp-idf/components/newlib/include/assert.h
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/heap/include/esp_heap_trace.h:
 

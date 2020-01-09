@@ -1,7 +1,7 @@
 src/bootloader_flash_config_esp32.o: \
  /home/gardin/esp/esp-idf/components/bootloader_support/src/bootloader_flash_config_esp32.c \
  /home/gardin/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdlib.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/ieeefp.h \
  /home/gardin/esp/esp-idf/components/newlib/include/_ansi.h \
@@ -57,7 +57,7 @@ src/bootloader_flash_config_esp32.o: \
 
 /home/gardin/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/newlib/include/stdlib.h:
 

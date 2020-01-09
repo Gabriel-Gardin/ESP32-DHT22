@@ -1,6 +1,6 @@
 esp32/emac_hal.o: \
  /home/gardin/esp/esp-idf/components/soc/esp32/emac_hal.c \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/xtensa/include/esp_attr.h \
  /home/gardin/esp/esp-idf/components/soc/include/soc/gpio_periph.h \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/gpio_pins.h \
@@ -25,7 +25,7 @@ esp32/emac_hal.o: \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/emac_mac_struct.h \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/emac_ext_struct.h
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/xtensa/include/esp_attr.h:
 

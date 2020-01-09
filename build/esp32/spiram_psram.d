@@ -1,5 +1,5 @@
 spiram_psram.o: /home/gardin/esp/esp-idf/components/esp32/spiram_psram.c \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/newlib/include/string.h \
  /home/gardin/esp/esp-idf/components/newlib/include/_ansi.h \
  /home/gardin/esp/esp-idf/components/newlib/include/newlib.h \
@@ -87,7 +87,7 @@ spiram_psram.o: /home/gardin/esp/esp-idf/components/esp32/spiram_psram.c \
  /home/gardin/esp/esp-idf/components/bootloader_support/include/esp_image_format.h \
  /home/gardin/esp/esp-idf/components/bootloader_support/include/esp_app_format.h
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/newlib/include/string.h:
 

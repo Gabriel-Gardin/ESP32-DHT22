@@ -17,7 +17,7 @@ event_send.o: /home/gardin/esp/esp-idf/components/esp_event/event_send.c \
  /home/gardin/esp/esp-idf/components/log/include/esp_log.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdint.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/_intsup.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdlib.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/stdlib.h \
@@ -156,7 +156,7 @@ event_send.o: /home/gardin/esp/esp-idf/components/esp_event/event_send.c \
 
 /home/gardin/esp/esp-idf/components/newlib/include/sys/_intsup.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 

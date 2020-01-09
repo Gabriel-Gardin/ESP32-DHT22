@@ -23,7 +23,7 @@ modbus/ascii/mbascii.o: \
  /home/gardin/esp/esp-idf/components/newlib/include/stdint.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/_intsup.h \
  /home/gardin/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /home/gardin/esp/esp-idf/components/xtensa/include/xtensa/hal.h \
  /home/gardin/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h \
@@ -121,7 +121,7 @@ modbus/ascii/mbascii.o: \
 
 /home/gardin/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 

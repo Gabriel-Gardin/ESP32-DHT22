@@ -2,7 +2,7 @@ src/ffunicode.o: \
  /home/gardin/esp/esp-idf/components/fatfs/src/ffunicode.c \
  /home/gardin/esp/esp-idf/components/fatfs/src/ff.h \
  /home/gardin/esp/esp-idf/components/fatfs/src/ffconf.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/param.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/config.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/ieeefp.h \
@@ -71,7 +71,7 @@ src/ffunicode.o: \
 
 /home/gardin/esp/esp-idf/components/fatfs/src/ffconf.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/newlib/include/sys/param.h:
 

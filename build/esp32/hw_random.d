@@ -21,7 +21,7 @@ hw_random.o: /home/gardin/esp/esp-idf/components/esp32/hw_random.c \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/endian.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/param.h \
  /home/gardin/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/esp32/include/esp32/clk.h \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/wdev_reg.h \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
@@ -90,7 +90,7 @@ hw_random.o: /home/gardin/esp/esp-idf/components/esp32/hw_random.c \
 
 /home/gardin/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/esp32/include/esp32/clk.h:
 

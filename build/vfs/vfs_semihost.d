@@ -36,7 +36,7 @@ vfs_semihost.o: /home/gardin/esp/esp-idf/components/vfs/vfs_semihost.c \
  /home/gardin/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/tie.h \
  /home/gardin/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/gardin/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /home/gardin/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/system.h \
  /home/gardin/esp/esp-idf/components/freertos/include/freertos/xtensa_context.h \
@@ -161,7 +161,7 @@ vfs_semihost.o: /home/gardin/esp/esp-idf/components/vfs/vfs_semihost.c \
 
 /home/gardin/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 

@@ -1,7 +1,7 @@
 mbedtls/library/asn1parse.o: \
  /home/gardin/esp/esp-idf/components/mbedtls/mbedtls/library/asn1parse.c \
  /home/gardin/esp/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/config.h \
  /home/gardin/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h \
  /home/gardin/esp/esp-idf/components/newlib/include/limits.h \
@@ -45,7 +45,7 @@ mbedtls/library/asn1parse.o: \
 
 /home/gardin/esp/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/config.h:
 

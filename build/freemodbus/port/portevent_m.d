@@ -2,7 +2,7 @@ port/portevent_m.o: \
  /home/gardin/esp/esp-idf/components/freemodbus/port/portevent_m.c \
  /home/gardin/esp/esp-idf/components/freemodbus/modbus/include/mb_m.h \
  /home/gardin/esp/esp-idf/components/freemodbus/modbus/include/mbconfig.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/freemodbus/port/port.h \
  /home/gardin/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/reent.h \
@@ -104,7 +104,7 @@ port/portevent_m.o: \
 
 /home/gardin/esp/esp-idf/components/freemodbus/modbus/include/mbconfig.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/freemodbus/port/port.h:
 

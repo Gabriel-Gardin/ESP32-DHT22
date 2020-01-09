@@ -2,7 +2,7 @@ src/utils/common.o: \
  /home/gardin/esp/esp-idf/components/wpa_supplicant/src/utils/common.c \
  /home/gardin/esp/esp-idf/components/wpa_supplicant/src/utils/includes.h \
  /home/gardin/esp/esp-idf/components/wpa_supplicant/port/include/supplicant_opt.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdint.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -49,7 +49,7 @@ src/utils/common.o: \
 
 /home/gardin/esp/esp-idf/components/wpa_supplicant/port/include/supplicant_opt.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 

@@ -29,7 +29,7 @@ src/bootloader_random.o: \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/dport_reg.h \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/dport_access.h \
  /home/gardin/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/esp32/include/esp32/dport_access.h \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/soc/uart_reg.h \
  /home/gardin/esp/esp-idf/components/xtensa/include/xtensa/xtruntime.h \
@@ -104,7 +104,7 @@ src/bootloader_random.o: \
 
 /home/gardin/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/esp32/include/esp32/dport_access.h:
 

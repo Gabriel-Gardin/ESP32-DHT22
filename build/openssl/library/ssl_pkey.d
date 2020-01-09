@@ -9,7 +9,7 @@ library/ssl_pkey.o: \
  /home/gardin/esp/esp-idf/components/openssl/include/internal/ssl_methods.h \
  /home/gardin/esp/esp-idf/components/openssl/include/internal/ssl_dbg.h \
  /home/gardin/esp/esp-idf/components/openssl/include/platform/ssl_opt.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/openssl/include/platform/ssl_port.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_types.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/cdefs.h \
@@ -57,7 +57,7 @@ library/ssl_pkey.o: \
 
 /home/gardin/esp/esp-idf/components/openssl/include/platform/ssl_opt.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/openssl/include/platform/ssl_port.h:
 

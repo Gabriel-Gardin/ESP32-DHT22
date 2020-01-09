@@ -1,7 +1,7 @@
 src/eap_peer/eap_mschapv2.o: \
  /home/gardin/esp/esp-idf/components/wpa_supplicant/src/eap_peer/eap_mschapv2.c \
  /home/gardin/esp/esp-idf/components/wpa_supplicant/src/rsn_supp/wpa.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdint.h \
  /home/gardin/esp/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -67,7 +67,7 @@ src/eap_peer/eap_mschapv2.o: \
 
 /home/gardin/esp/esp-idf/components/wpa_supplicant/src/rsn_supp/wpa.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 

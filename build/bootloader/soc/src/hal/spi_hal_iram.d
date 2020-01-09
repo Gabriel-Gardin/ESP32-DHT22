@@ -4,7 +4,7 @@ src/hal/spi_hal_iram.o: \
  /home/gardin/esp/esp-idf/components/soc/esp32/include/hal/spi_ll.h \
  /home/gardin/esp/esp-idf/components/soc/include/hal/hal_defs.h \
  /home/gardin/esp/esp-idf/components/log/include/esp_log.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/gardin/esp/esp-idf/components/log/include/esp_log_internal.h \
  /home/gardin/esp/esp-idf/components/soc/include/soc/spi_periph.h \
@@ -30,7 +30,7 @@ src/hal/spi_hal_iram.o: \
 
 /home/gardin/esp/esp-idf/components/log/include/esp_log.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 

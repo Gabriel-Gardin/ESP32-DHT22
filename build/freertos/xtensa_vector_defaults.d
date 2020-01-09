@@ -13,7 +13,7 @@ xtensa_vector_defaults.o: \
  /home/gardin/esp/esp-idf/components/xtensa/include/xtensa/corebits.h \
  /home/gardin/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/system.h \
  /home/gardin/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /home/gardin/esp/esp-idf/components/freertos/include/freertos/xtensa_context.h \
  /home/gardin/esp/esp-idf/components/xtensa/include/xtensa/xtruntime-frames.h \
@@ -49,7 +49,7 @@ xtensa_vector_defaults.o: \
 
 /home/gardin/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 

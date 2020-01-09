@@ -1,7 +1,7 @@
 bootloader_start.o: \
  /home/gardin/esp/esp-idf/components/bootloader/subproject/main/bootloader_start.c \
  /home/gardin/esp/esp-idf/components/log/include/esp_log.h \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/gardin/esp/esp-idf/components/log/include/esp_log_internal.h \
  /home/gardin/esp/esp-idf/components/bootloader_support/include_bootloader/bootloader_config.h \
@@ -27,7 +27,7 @@ bootloader_start.o: \
 
 /home/gardin/esp/esp-idf/components/log/include/esp_log.h:
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/bootloader/../include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/bootloader/../include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 

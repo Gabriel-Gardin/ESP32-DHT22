@@ -1,5 +1,5 @@
 can.o: /home/gardin/esp/esp-idf/components/driver/can.c \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/reent.h \
  /home/gardin/esp/esp-idf/components/newlib/include/_ansi.h \
@@ -96,7 +96,7 @@ can.o: /home/gardin/esp/esp-idf/components/driver/can.c \
  /home/gardin/esp/esp-idf/components/driver/include/driver/can.h \
  /home/gardin/esp/esp-idf/components/driver/include/driver/gpio.h
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h:
 

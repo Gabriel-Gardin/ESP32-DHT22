@@ -1,6 +1,6 @@
 esp_flash_spi_init.o: \
  /home/gardin/esp/esp-idf/components/spi_flash/esp_flash_spi_init.c \
- /home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h \
+ /home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h \
  /home/gardin/esp/esp-idf/components/spi_flash/include/esp_flash.h \
  /home/gardin/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/gardin/esp/esp-idf/components/newlib/include/stdint.h \
@@ -85,7 +85,7 @@ esp_flash_spi_init.o: \
  /home/gardin/esp/esp-idf/components/newlib/include/sys/queue.h \
  /home/gardin/esp/esp-idf/components/spi_flash/include/esp_flash_internal.h
 
-/home/gardin/Documents/dev/ESP_IDF/RMT_ONE_WIRE/build/include/sdkconfig.h:
+/home/gardin/Documents/dev/ESP32-DHT22/build/include/sdkconfig.h:
 
 /home/gardin/esp/esp-idf/components/spi_flash/include/esp_flash.h:
 
