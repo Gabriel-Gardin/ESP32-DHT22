@@ -1,5 +1,0 @@
-source "/home/gardin/esp/esp-idf/components/app_update/Kconfig.projbuild"
-source "/home/gardin/esp/esp-idf/components/bootloader/Kconfig.projbuild"
-source "/home/gardin/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
-source "/home/gardin/Documents/dev/ESP32-DHT22/main/Kconfig.projbuild"
-source "/home/gardin/esp/esp-idf/components/partition_table/Kconfig.projbuild"
